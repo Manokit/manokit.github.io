@@ -1,5 +1,6 @@
-Here are the links converted to clickable markdown links with the specified text:
-
+---
+layout: default
+---
 ### There are 2 options for joining Tidal's Cove!
 
 ## IP - [Tidaleus.xyz](Tidaleus.xyz)
