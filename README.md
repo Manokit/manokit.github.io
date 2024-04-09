@@ -1,5 +1,7 @@
 ### There are 2 options for joining Tidal's Cove!
 #### IP - <a href="Tidaleus.xyz">Tidaleus.xyz</a>
+
+#### <a href="https://discord.gg/mz2gpTT2">Discord Server</a> (Just basic for now, the server has a voice chat mod, if Tidal's Cove grows beyond ATM9 i'll put more time into it)
 ##### Download premade .zip
 1. Download Prism Launcher - <a href="https://prismlauncher.org/">prismlauncher.org</a>
 2. Login to your Minecraft account - <a href="https://i.imgur.com/SXLui71.png">Picture</a>
