@@ -4,7 +4,7 @@
 1. Download Prism Launcher - <a href="https://prismlauncher.org/">prismlauncher.org</a>
 2. Login to your Minecraft account - <a href="https://i.imgur.com/SXLui71.png">Picture</a>
 3. Go to settings -> Java and make sure it has sufficient ram - <a href="https://i.imgur.com/rdIaHjC.png">Picture</a>
-4. Download the pre-modded pack - <a href="https://www.file.io/acnJ/download/apXNNQJV2wu1">file.io/acnJ/download/apXNNQJV2wu1</a>
+4. Download the pre-modded pack - <a href="https://filetransfer.io/data-package/LwwWXFur#link">https://filetransfer.io/data-package/LwwWXFur#link</a>
 5. Top left -> Add instance -> Import From Zip -> Select "Tidal's Cove.zip" -> Ok at the bottom
 6. Play!
 
