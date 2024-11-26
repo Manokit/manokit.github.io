@@ -1,22 +1,17 @@
-### There are 2 options for joining Tidal's Cove!
-#### IP - <a href="Tidaleus.xyz">Tidaleus.xyz</a>
+# Privacy Policy for Silicon Valley Therapy Communication App
 
-#### <a href="https://discord.gg/mz2gpTT2">Discord Server</a> (Just basic for now, the server has a voice chat mod, if Tidal's Cove grows beyond ATM9 i'll put more time into it)
-##### Download premade .zip
-1. Download Prism Launcher - <a href="https://prismlauncher.org/">prismlauncher.org</a>
-2. Login to your Minecraft account - <a href="https://i.imgur.com/SXLui71.png">Picture</a>
-3. Go to settings -> Java and make sure it has sufficient ram - <a href="https://i.imgur.com/rdIaHjC.png">Picture</a>
-4. Download the pre-modded pack - <a href="https://filetransfer.io/data-package/LwwWXFur#link">https://filetransfer.io/data-package/LwwWXFur#link</a>
-5. Top left -> Add instance -> Import From Zip -> Select "Tidal's Cove.zip" -> Ok at the bottom
-6. Play!
+By using this application, you agree to the collection and use of your personal data as described below:
 
+## DATA COLLECTION
+Silicon Valley Therapy does not collect any personal information such as names, email addresses, or usage data. This application only stores basic usage information related to key components of the application to maintain state persistence. The data collected is not intended to include any Personally Identifiable Information (PII) or Protected Health Information (PHI). Users are responsible for ensuring that any information entered, including names, email addresses, locations, or health-related data, is not shared within the application.
 
-##### Install All the Mods 9 with Voice Chat for Tidal's Cove
-1. Download Prism Launcher (Unless you already have Curseforge/MultiMC and know how to use it) - <a href="https://prismlauncher.org/">prismlauncher.org</a>
-2. Login to your Minecraft account - <a href="https://i.imgur.com/SXLui71.png">Picture</a>
-3. Go to settings -> Java and make sure it has sufficient ram - <a href="https://i.imgur.com/rdIaHjC.png">Picture</a>
-4. Top left -> Add Instance -> Curseforge -> Search "All The Mods 9" -> Version 0.2.56 -> OK
-5. After it's done installing, highlight and click edit - <a href="https://i.imgur.com/92an1uH.png">Picture</a>
-6. Click Mods on the left, then Download Mods - <a href="https://i.imgur.com/9AbEVHm.png">Picture</a>
-7. Search "Simple Voice Chat", select mod for download, then Review and Confirm - <a href="https://i.imgur.com/R5lWXhI.png">Picture</a>
-8. Should be ready to Join!
+## USE OF DATA
+The collected data will not be transmitted, shared with Silicon Valley Therapy, or shared with any third parties. The data will be only be used for the persistence of the state of the application.
+
+## STORAGE OF DATA
+The collected data is stored locally on your device. All data has the potential of containing PII or PHI will be encrypted using the industry standard AES 256 bit encryption.
+
+## YOUR RIGHTS
+You have the right to access and delete your data at any time in the application. A method for the removal of your data is provided to you.
+
+*Last updated: November 26, 2024*
