@@ -11,7 +11,16 @@ The collected data will not be transmitted, shared with Silicon Valley Therapy, 
 ## STORAGE OF DATA
 The collected data is stored locally on your device. All data has the potential of containing PII or PHI will be encrypted using the industry standard AES 256 bit encryption.
 
+## PERMISSIONS
+This app requires the following permissions:
+- Storage: Required to store local data
+
+
 ## YOUR RIGHTS
 You have the right to access and delete your data at any time in the application. A method for the removal of your data is provided to you.
 
-*Last updated: November 26, 2024*
+## CHANGES TO THIS POLICY
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+
+
+*Last updated: January 17th, 2025*
