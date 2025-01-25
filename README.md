@@ -14,6 +14,7 @@ The collected data is stored locally on your device. All data has the potential 
 ## PERMISSIONS
 This app requires the following permissions:
 - Storage: Required to store local data
+- Notifications: Required for daily notifications
 
 
 ## YOUR RIGHTS
@@ -23,4 +24,4 @@ You have the right to access and delete your data at any time in the application
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
 
 
-*Last updated: January 17th, 2025*
+*Last updated: January 24th, 2025*
